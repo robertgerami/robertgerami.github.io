@@ -1,21 +1,24 @@
 
+div.logo {
 
-
-
-
-
-
-
-
-div.logo div.text-wrapper{
-
-	filter: Alpha(opacity=30);
-	height: 200px;
-	width: 650px;
-	opacity: 75%;
-	position: relative;
-	margin-top: -50%;
 	
+	margin-top: 17%;
+	font-size: 50pt;
+	letter-spacing: -3pt;
+	
+
+	
+}
+
+input{
+	width: 50%;
+	margin-left: 25%;
+	margin-top: 0%;
+	height: 25pt;
+}
+
+input::placeholder {
+	font-size: 15pt;
 }
 
 
